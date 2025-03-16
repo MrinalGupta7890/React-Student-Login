@@ -1,0 +1,50 @@
+.header-container {
+  position: relative;
+}
+
+.text-yovro {
+  width: 93px;
+  height: 38.687px;
+  position: absolute;
+  top: 39.85px;
+  left: 54px;
+  font: 700 32px 'Inter', sans-serif;
+}
+
+.text-practice, .text-task, .text-notes, .text-assessment, .text-mock {
+  position: absolute;
+  top: 46px;
+  font: 400 20px 'Inter', sans-serif;
+  color: #FFC905;
+  cursor: pointer;
+}
+
+.text-practice { left: 269px; width: 229px; top: 45.8px; }
+.text-task { left: 400px; width: 116.042px; }
+.text-notes { left: 484px; width: 116.042px; }
+.text-assessment { left: 591px; width: 229.004px; }
+.text-mock { left: 720px; width: 229.004px; }
+
+.decorative-image {
+  width: 10px;
+  height: 3.184px;
+  position: absolute;
+  top: 55px;
+  left: 345px;
+  cursor: pointer;
+}
+
+.text-hi {
+  position: absolute;
+  top: 40.84px;
+  left: 1075px;
+  font: 400 22px 'Inter', sans-serif;
+}
+
+.usericon1, .usericon2 {
+  position: absolute;
+  cursor: pointer;
+}
+
+.usericon1 { width: 31.24px; height: 20.558px; top: 44px; left: 1195px; }
+.usericon2 { width: 11.36px; height: 7.476px; top: 47px; left: 1205px; }
